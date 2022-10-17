@@ -65,6 +65,14 @@ a {
     border-radius: 0.3125rem;
     padding: 1rem;
     width: 155px;
+} 
+
+.button {
+    background-color: rgb(1, 137, 137);
+    color: #ffff;
+    border-radius: 0.3125rem;
+    padding: 1rem;
+    width: 155px;
 }
 
 .text__purple {
