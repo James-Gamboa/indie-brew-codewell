@@ -212,6 +212,7 @@ a {
 }
 .form__info p {
     color: black;
+    font-size: 1.2rem;
 }
 
 .form__account {
