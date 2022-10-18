@@ -221,6 +221,10 @@ a {
     border-radius: 0.625rem;
 }
 
+.form__account label {
+    padding-bottom: 0;
+}
+
 .form__account h3 {
     margin-bottom: 1rem;
 }
