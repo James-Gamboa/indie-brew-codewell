@@ -212,12 +212,17 @@ a {
 }
 .form__info p {
     color: black;
+    font-size: 1.2rem;
 }
 
 .form__account {
     background-color: white;
     padding: 2.8125rem 2.5rem;
     border-radius: 0.625rem;
+}
+
+.form__account label {
+    padding-bottom: 0;
 }
 
 .form__account h3 {
